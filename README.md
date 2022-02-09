@@ -1,3 +1,5 @@
+# Alred workflows
+
 ## alfred-open-with-vscode-workflow
     Can open current file or dir in vscode
 ## NewPath.alfredworkflow
